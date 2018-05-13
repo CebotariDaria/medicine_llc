@@ -1,0 +1,75 @@
+﻿<Page x:Class="RmoMed.App.AppInterface.PAuth"
+      KeepAlive="True"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:RmoMed.App.AppInterface"
+      mc:Ignorable="d" d:DesignWidth="600"
+      Title="PAuth" Height="230">
+
+    <Grid Width="600" Margin="0,0,0,0">
+        <Path x:Name="Path_lo" Stretch="Fill" Data="F1 M 129.071,111.564L 109.629,77.8893L 129.071,44.2133L 312.736,44.2133L 332.177,77.8893L 312.736,111.564L 129.071,111.564 Z " Margin="52.04,76.073,57.803,0" VerticalAlignment="Top" MinWidth="430.92" Height="148.338" RenderTransformOrigin="0.5,0.5">
+
+            <Path.Fill>
+                <LinearGradientBrush StartPoint="0.889551,1.1382" EndPoint="2.43995,1.1382">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <SkewTransform CenterX="0.889551" CenterY="1.1382" AngleX="50.0671" AngleY="0"/>
+                            <RotateTransform CenterX="0.889551" CenterY="1.1382" Angle="238.6"/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#FFFFFFFF" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path x:Name="Path_1" Stretch="Fill" Data="F1 M 276.465,77.672L 257.024,43.9973L 276.465,10.3214L 316.249,10.3214L 335.691,43.9973L 316.249,77.672L 276.465,77.672 Z " Margin="377.31,1,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="148.338" Width="173.261">
+            <Path.Fill>
+                <LinearGradientBrush StartPoint="0.889549,0.725589" EndPoint="1.82297,0.725589">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <SkewTransform CenterX="0.889549" CenterY="0.725589" AngleX="7.07501" AngleY="0"/>
+                            <RotateTransform CenterX="0.889549" CenterY="0.725589" Angle="210.075"/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#FFFFFFFF" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path x:Name="Path_3" Stretch="Fill" Fill="#FF85E0EF" Data="F1 M 314.094,59.0593L 278.628,59.0593L 296.36,23.5927L 314.094,59.0593 Z " Margin="424.133,30.76,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="78.114" Width="78.112"/>
+        <Path x:Name="Path_5" Stretch="Fill" Data="F1 M 316.249,77.672L 276.465,77.672L 257.024,43.9973L 276.465,10.3214L 316.249,77.672 Z " Margin="377.493,1,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="148.338" Width="130.443">
+            <Path.Fill>
+                <LinearGradientBrush StartPoint="0.0507998,0.25602" EndPoint="0.576554,0.25602">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <SkewTransform CenterX="0.0507998" CenterY="0.25602" AngleX="-7.3459" AngleY="0"/>
+                            <RotateTransform CenterX="0.0507998" CenterY="0.25602" Angle="41.327"/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#66FFFFFF" Offset="0"/>
+                    <GradientStop Color="#66EBEBEB" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Path x:Name="Path_6" Stretch="Fill" Data="F1 M 316.249,77.672L 276.465,77.672L 296.256,43.9973L 316.249,77.672 Z " Margin="419.396,76.073,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="74.168" Width="87.623">
+            <Path.Fill>
+                <LinearGradientBrush StartPoint="0.166594,0.402971" EndPoint="0.622312,0.402971">
+                    <LinearGradientBrush.RelativeTransform>
+                        <TransformGroup>
+                            <SkewTransform CenterX="0.166594" CenterY="0.402971" AngleX="9.50828" AngleY="0"/>
+                            <RotateTransform CenterX="0.166594" CenterY="0.402971" Angle="49.7541"/>
+                        </TransformGroup>
+                    </LinearGradientBrush.RelativeTransform>
+                    <GradientStop Color="#4CFFFFFF" Offset="0"/>
+                    <GradientStop Color="#4CEBEBEB" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <Label x:Name="label" Content="AUTENTIFICARE" HorizontalAlignment="Left" Margin="99,92,0,97.759" Width="200.993" FontSize="26.667"/>
+        <TextBox x:Name="tbAuthId" Height="54" TextWrapping="Wrap" VerticalAlignment="Bottom" Margin="99,0,300,39" FontSize="40" TextAlignment="Center"/>
+        <Button x:Name="btLogIn" Content="ENTER" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="305,137,0,0" Height="54" Click="btLogIn_Click"/>
+
+    </Grid>
+</Page>

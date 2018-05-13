@@ -1,0 +1,24 @@
+F:\Project\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.dll
+F:\Project\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.pdb
+F:\Project\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.csprojResolveAssemblyReference.cache
+F:\Project\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.dll
+F:\Project\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.pdb
+H:\Project\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.dll
+H:\Project\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.pdb
+H:\Project\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.csprojResolveAssemblyReference.cache
+H:\Project\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.dll
+H:\Project\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.dll
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.csprojResolveAssemblyReference.cache
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.dll
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.pdb
+H:\Project\DARIA\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.dll
+H:\Project\DARIA\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.pdb
+H:\Project\DARIA\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.dll
+H:\Project\DARIA\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.dll
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppDomain\bin\Debug\RmoMed.AppDomain.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.csprojResolveAssemblyReference.cache
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.dll
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppDomain\obj\Debug\RmoMed.AppDomain.pdb

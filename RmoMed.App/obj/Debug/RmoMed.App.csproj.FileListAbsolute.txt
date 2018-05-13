@@ -1,0 +1,142 @@
+F:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe.config
+F:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe
+F:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.pdb
+F:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.dll
+F:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.dll
+F:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.pdb
+F:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.pdb
+F:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csprojResolveAssemblyReference.cache
+F:\Project\RmoMed\RmoMed.App\obj\Debug\MainWindow.g.cs
+F:\Project\RmoMed\RmoMed.App\obj\Debug\App.g.cs
+F:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.cache
+F:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.lref
+F:\Project\RmoMed\RmoMed.App\obj\Debug\MainWindow.baml
+F:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.g.resources
+F:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.Properties.Resources.resources
+F:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csproj.GenerateResource.Cache
+F:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.exe
+F:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.pdb
+H:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe.config
+H:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.exe
+H:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.pdb
+H:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csprojResolveAssemblyReference.cache
+H:\Project\RmoMed\RmoMed.App\obj\Debug\Main.g.cs
+H:\Project\RmoMed\RmoMed.App\obj\Debug\App.g.cs
+H:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.cache
+H:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.lref
+H:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe
+H:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.pdb
+H:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.dll
+H:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.dll
+H:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.pdb
+H:\Project\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.pdb
+H:\Project\RmoMed\RmoMed.App\obj\Debug\Main.baml
+H:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.g.resources
+H:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.Properties.Resources.resources
+H:\Project\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csproj.GenerateResource.Cache
+H:\Project\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.g.cs
+H:\Project\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.baml
+H:\Project\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.g.cs
+H:\Project\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.baml
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe.config
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.exe
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.dll
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.dll
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csprojResolveAssemblyReference.cache
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.g.cs
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.g.cs
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\Main.g.cs
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\App.g.cs
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.cache
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.lref
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.baml
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.baml
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\Main.baml
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.g.resources
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.Properties.Resources.resources
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csproj.GenerateResource.Cache
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\AppInterface\Pestisori.g.cs
+C:\Users\Daria\Desktop\RmoMed\RmoMed.App\obj\Debug\AppInterface\Pestisori.baml
+H:\Project\DARIA\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe.config
+H:\Project\DARIA\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe
+H:\Project\DARIA\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.pdb
+H:\Project\DARIA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.dll
+H:\Project\DARIA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.dll
+H:\Project\DARIA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.pdb
+H:\Project\DARIA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.pdb
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csprojResolveAssemblyReference.cache
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.g.cs
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.g.cs
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriCm\PestisorT1.g.cs
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriField.g.cs
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\Main.g.cs
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\App.g.cs
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.cache
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.lref
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.baml
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.baml
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriCm\PestisorT1.baml
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriField.baml
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\Main.baml
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.g.resources
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.Properties.Resources.resources
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csproj.GenerateResource.Cache
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.exe
+H:\Project\DARIA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.pdb
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe.config
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.exe
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.pdb
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.pdb
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.dll
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.dll
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.pdb
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.pdb
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csprojResolveAssemblyReference.cache
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.g.cs
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.g.cs
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriCm\PestisorT1.g.cs
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriField.g.cs
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\Main.g.cs
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\App.g.cs
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.cache
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.lref
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.baml
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.baml
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriCm\PestisorT1.baml
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriField.baml
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\Main.baml
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.g.resources
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.Properties.Resources.resources
+C:\Users\Daria\Desktop\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csproj.GenerateResource.Cache
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe.config
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.exe
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.exe
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.App.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.dll
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.dll
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppDomain.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\bin\Debug\RmoMed.AppLogic.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csprojResolveAssemblyReference.cache
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.g.cs
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.g.cs
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriCm\PestisorT1.g.cs
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriField.g.cs
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\Main.g.cs
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\App.g.cs
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.cache
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App_MarkupCompile.lref
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\GameViewStructure.baml
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PAuth.baml
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriCm\PestisorT1.baml
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\AppInterface\PestisoriField.baml
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\Main.baml
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.g.resources
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.Properties.Resources.resources
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.App\obj\Debug\RmoMed.App.csproj.GenerateResource.Cache

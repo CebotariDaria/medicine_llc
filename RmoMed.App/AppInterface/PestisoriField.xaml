@@ -1,0 +1,63 @@
+﻿<Window x:Class="RmoMed.App.AppInterface.PestisoriField"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RmoMed.App.AppInterface"
+        mc:Ignorable="d"
+        Title="Pestisori" Height="600" Width="600"
+        WindowStyle="None" ResizeMode="NoResize"  
+        WindowStartupLocation="CenterScreen" 
+        WindowState="Maximized" Background="{x:Null}" Loaded="Window_Loaded" Closing="Window_Closing">
+
+
+    <Grid>
+        <Grid x:Name="leftSide" HorizontalAlignment="Left">
+            <Grid Width="150" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="100"/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" x:Name="label" Content="Timer" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" FontSize="20"/>
+                <Grid Grid.Row="1" Height="400">
+                    <Label x:Name="TimerCountDown" FontSize="80px" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White">00</Label>
+                </Grid>
+                
+                <Grid Row="2">
+                    <Label x:Name="lablse" Content="Scorul" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Top" RenderTransformOrigin="0.503,-0.59" FontSize="20" Foreground="#FFF7F5F5"/>
+                    <Label x:Name="lbScore" Content="00" HorizontalAlignment="Center" Margin="0" VerticalAlignment="Bottom" RenderTransformOrigin="0.503,-0.59" FontSize="60" Foreground="#FF00FF3A" Background="{x:Null}"/>
+
+                </Grid>
+
+            </Grid>
+        </Grid>
+        <Grid x:Name="GameField" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Image x:Name="background">
+                <Image.Source>
+                    <BitmapImage DecodePixelWidth="1500" UriSource="/Image/pestisori-fundal.png" />
+                </Image.Source>
+            </Image>
+            <Grid x:Name="GmInteract" MouseLeftButtonDown="GmInteract_MouseLeftButtonDown">
+
+            </Grid>
+
+        </Grid>
+        <Grid x:Name="rightSide" HorizontalAlignment="Right" Margin="0,0,10,0">
+            <Grid Width="150" HorizontalAlignment="Right" VerticalAlignment="Top">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="100"/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" x:Name="label1" Content="Caută peștișorul:" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="White" FontSize="20" BorderThickness="0"/>
+                <Grid Grid.Row="1" Height="400">
+                    <Image x:Name="findPestisor" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                </Grid>
+                <Grid Row="2">
+
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

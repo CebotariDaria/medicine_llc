@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RmoMed.App", "RmoMed.App\RmoMed.App.csproj", "{572462D8-EF02-4BCB-81E5-EFF9B78591FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RmoMed.AppLogic", "RmoMed.AppLogic\RmoMed.AppLogic.csproj", "{81333898-51B2-4D6C-9985-B6636418D0E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RmoMed.AppDomain", "RmoMed.AppDomain\RmoMed.AppDomain.csproj", "{467C3BA4-9D46-480A-9471-0F7D5E5DFA47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RmoMed.AppHelper", "RmoMed.AppHelper\RmoMed.AppHelper.csproj", "{012AB538-9CC7-4EE8-8401-A0C93214B7A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572462D8-EF02-4BCB-81E5-EFF9B78591FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572462D8-EF02-4BCB-81E5-EFF9B78591FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572462D8-EF02-4BCB-81E5-EFF9B78591FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572462D8-EF02-4BCB-81E5-EFF9B78591FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81333898-51B2-4D6C-9985-B6636418D0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81333898-51B2-4D6C-9985-B6636418D0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81333898-51B2-4D6C-9985-B6636418D0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81333898-51B2-4D6C-9985-B6636418D0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{467C3BA4-9D46-480A-9471-0F7D5E5DFA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467C3BA4-9D46-480A-9471-0F7D5E5DFA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467C3BA4-9D46-480A-9471-0F7D5E5DFA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467C3BA4-9D46-480A-9471-0F7D5E5DFA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012AB538-9CC7-4EE8-8401-A0C93214B7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012AB538-9CC7-4EE8-8401-A0C93214B7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012AB538-9CC7-4EE8-8401-A0C93214B7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012AB538-9CC7-4EE8-8401-A0C93214B7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

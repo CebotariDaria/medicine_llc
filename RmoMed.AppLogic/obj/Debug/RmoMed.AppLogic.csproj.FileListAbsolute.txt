@@ -1,0 +1,45 @@
+F:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.dll
+F:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.pdb
+F:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.dll
+F:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.dll
+F:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.pdb
+F:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.pdb
+F:\Project\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.csprojResolveAssemblyReference.cache
+F:\Project\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.dll
+F:\Project\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.pdb
+H:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.dll
+H:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.pdb
+H:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.dll
+H:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.dll
+H:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.pdb
+H:\Project\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.pdb
+H:\Project\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.csprojResolveAssemblyReference.cache
+H:\Project\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.dll
+H:\Project\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.dll
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.dll
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.dll
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.pdb
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.csprojResolveAssemblyReference.cache
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.dll
+C:\Users\Daria\Desktop\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.pdb
+H:\Project\DARIA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.dll
+H:\Project\DARIA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.pdb
+H:\Project\DARIA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.dll
+H:\Project\DARIA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.dll
+H:\Project\DARIA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.pdb
+H:\Project\DARIA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.pdb
+H:\Project\DARIA\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.csprojResolveAssemblyReference.cache
+H:\Project\DARIA\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.dll
+H:\Project\DARIA\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.dll
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppLogic.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.dll
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.dll
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppDomain.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppLogic\bin\Debug\RmoMed.AppHelper.pdb
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.csprojResolveAssemblyReference.cache
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.dll
+C:\Users\Daria\Desktop\hlam nou\ASA\RmoMed\RmoMed.AppLogic\obj\Debug\RmoMed.AppLogic.pdb
